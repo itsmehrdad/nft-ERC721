@@ -1,0 +1,14 @@
+{
+      "name":" beautifulcity",
+      "description":" this is just a test from mehrdad", 
+      "image":"https://ipfs.io/ipfs/QmTGCvtrWRP6C2VjLo2omv1uK36DEDUDcqFYU9d5Eq8Pz1",
+      "attributes":[
+            { 
+                  "trait_type":"Level",
+                  "value":20,
+                  "max_value":100
+
+            }
+      ] 
+       
+}
